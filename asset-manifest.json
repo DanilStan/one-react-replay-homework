@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/DanilStan/one-react-replay-homework.git/static/css/main.7acaea2f.css",
-    "main.js": "/DanilStan/one-react-replay-homework.git/static/js/main.ec6bbb70.js",
+    "main.js": "/DanilStan/one-react-replay-homework.git/static/js/main.b6101b1d.js",
     "index.html": "/DanilStan/one-react-replay-homework.git/index.html",
     "main.7acaea2f.css.map": "/DanilStan/one-react-replay-homework.git/static/css/main.7acaea2f.css.map",
-    "main.ec6bbb70.js.map": "/DanilStan/one-react-replay-homework.git/static/js/main.ec6bbb70.js.map"
+    "main.b6101b1d.js.map": "/DanilStan/one-react-replay-homework.git/static/js/main.b6101b1d.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.ec6bbb70.js"
+    "static/js/main.b6101b1d.js"
   ]
 }
